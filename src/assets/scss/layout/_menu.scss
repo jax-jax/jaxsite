@@ -1,12 +1,46 @@
 ///
-/// Forty by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+///
+///
 ///
 
 /* Menu */
 
 	#menu {
+		cursor: default;
+		height: 3.25em;
+		left: 0;
+		line-height: 3.25em;
+		margin-bottom: 1.0em;
+		position: fixed;
+		text-transform: uppercase;
+		top: 0;
+		width: 100%;
+		padding: 1em;
+
+	header{
+		.nav-logo {
+			text-shadow: none;
+			background-image: none;
+				& img {
+				display: inline;
+				height: 4.5rem;
+				}
+			}
+
+			ul {
+				list-style: none;
+				float: right;
+			}
+
+			li {
+				display: inline-block;
+				margin-right: 1em;
+			}
+		}
+	}
+
+/**	#menu {
 		@include vendor('transition', (
 			'transform #{_duration(menu)} ease',
 			'opacity #{_duration(menu)} ease',
@@ -162,3 +196,4 @@
 			}
 		}
 	}
+	**/

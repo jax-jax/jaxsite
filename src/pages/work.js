@@ -1,6 +1,8 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
+import Menu from "../components/Menu.js"
+
 
 class WorkPage extends React.Component {
   render() {
@@ -14,9 +16,10 @@ class WorkPage extends React.Component {
             <meta name="description" content={siteDescription} />
 
         </Helmet>
-
-        <h1>This is a Work page</h1>
-
+        <Menu/>
+        <div>
+            <h1>This is a Work page</h1>
+         </div>
       </div>
     )
   }

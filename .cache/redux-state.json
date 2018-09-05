@@ -1,0 +1,2331 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/Watson/jaxsite/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/Watson/jaxsite/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0ef86f9863ac2590bbc7236cb60385a4",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "dbddeeb64b89c2b8c2c682dd339a51f6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "551e299ea8f1ea6e8c2b0651af4f4687",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d936bcacb74d0721fed198a68c3fbc7d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8608ac027258b8aeed6d926a682447fd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "45ea3afe34f106ba1f28cd9c23e67eb6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "01778f8fde776a71c701447f8c108c26",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.28",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/Watson/jaxsite/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5af72bb7616c20e7560645daae22d8c8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.39",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/Watson/jaxsite/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.60",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 630,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": ""
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/Watson/jaxsite/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.31",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby-remark-copy-linked-files"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "190e8064de6fe3f0321f5195e9282201",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.60",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 630,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "showCaptions": false,
+        "pathPrefix": ""
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.60",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.41"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7048ebe0a3f3a07be80e0a277b788715",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.31",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "39cc8cc714ea51e8a866df68669130b8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.22",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "215329cf50ad9d07c543068628a02b86",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.41",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.41",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "74c2dd8c8b8ae0daa43302f62c0adda5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ea949da7783ea3800c5e772b3ee48018",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "/Users/Watson/jaxsite/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "1.0.25",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "1.0.25",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.11"
+          },
+          {
+            "name": "gatsby-1-config-extract-plugin",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.13.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e2d19459f8864885b8a8da5f31c59dbb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/Watson/jaxsite",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "6efba7c9e54878bacbe0111416eb3475",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Watson/jaxsite",
+      "packageJson": {
+        "name": "jaxfoo-site",
+        "description": "Jacklyn Phu - Design portfolio",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Jacklyn Phu",
+        "license": "TO KILL",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.235"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.39"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.42"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.24"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^1.0.23"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.41"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.30"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.56"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.27"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.37"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.22"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "49fd86bc54344180d9a2080ed0becaba",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Jacklyn Phu - Design Portfolio",
+        "author": "Jacklyn Phu",
+        "description": "The Wonders of Jacklyn",
+        "logo": "/Users/Watson/jaxsite/src/images/favi_logo3.png"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-09-04T05:22:46.304Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "438673752a915baf34874d6d3ef58405",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/Watson/jaxsite/src/posts absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "933dfc0bdefa4d64bd0c0142e5312935",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/Watson/jaxsite/src/posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2018-09-02T20:05:21.041Z",
+      "accessTime": "2018-09-04T05:22:55.229Z",
+      "changeTime": "2018-09-04T04:27:03.431Z",
+      "birthTime": "2018-09-02T20:05:21.039Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050924,
+      "blocks": 0,
+      "atimeMs": 1536038575229.0361,
+      "mtimeMs": 1535918721041.429,
+      "ctimeMs": 1536035223431.2952,
+      "birthtimeMs": 1535918721038.5017,
+      "atime": "2018-09-04T05:22:55.229Z",
+      "mtime": "2018-09-02T20:05:21.041Z",
+      "ctime": "2018-09-04T04:27:03.431Z",
+      "birthtime": "2018-09-02T20:05:21.039Z"
+    },
+    "/Users/Watson/jaxsite/src/posts/hello-world absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/posts/hello-world absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e32fd456f84af38f7a959bdf0d8da566",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/Watson/jaxsite/src/posts/hello-world",
+      "relativePath": "hello-world",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-09-04T01:03:11.486Z",
+      "accessTime": "2018-09-04T05:22:55.231Z",
+      "changeTime": "2018-09-04T04:27:03.428Z",
+      "birthTime": "2018-09-02T20:05:21.039Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/posts",
+      "base": "hello-world",
+      "ext": "",
+      "name": "hello-world",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050925,
+      "blocks": 0,
+      "atimeMs": 1536038575231.165,
+      "mtimeMs": 1536022991486.3352,
+      "ctimeMs": 1536035223428.3542,
+      "birthtimeMs": 1535918721038.55,
+      "atime": "2018-09-04T05:22:55.231Z",
+      "mtime": "2018-09-04T01:03:11.486Z",
+      "ctime": "2018-09-04T04:27:03.428Z",
+      "birthtime": "2018-09-02T20:05:21.039Z"
+    },
+    "/Users/Watson/jaxsite/src/posts/hi-folks absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/posts/hi-folks absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d62dc516a62b6516f77cdf6a6987ddf3",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/Watson/jaxsite/src/posts/hi-folks",
+      "relativePath": "hi-folks",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-09-02T20:05:21.041Z",
+      "accessTime": "2018-09-04T05:22:55.231Z",
+      "changeTime": "2018-09-04T04:27:03.430Z",
+      "birthTime": "2018-09-02T20:05:21.041Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/posts",
+      "base": "hi-folks",
+      "ext": "",
+      "name": "hi-folks",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050927,
+      "blocks": 0,
+      "atimeMs": 1536038575231.1934,
+      "mtimeMs": 1535918721041.2183,
+      "ctimeMs": 1536035223429.569,
+      "birthtimeMs": 1535918721041.1235,
+      "atime": "2018-09-04T05:22:55.231Z",
+      "mtime": "2018-09-02T20:05:21.041Z",
+      "ctime": "2018-09-04T04:27:03.430Z",
+      "birthtime": "2018-09-02T20:05:21.041Z"
+    },
+    "/Users/Watson/jaxsite/src/posts/my-second-post absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/posts/my-second-post absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "49a45197d03ba538e409748e518ea017",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/Watson/jaxsite/src/posts/my-second-post",
+      "relativePath": "my-second-post",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-09-02T20:05:21.041Z",
+      "accessTime": "2018-09-04T05:22:55.231Z",
+      "changeTime": "2018-09-04T04:27:03.431Z",
+      "birthTime": "2018-09-02T20:05:21.041Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/posts",
+      "base": "my-second-post",
+      "ext": "",
+      "name": "my-second-post",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050929,
+      "blocks": 0,
+      "atimeMs": 1536038575231.2158,
+      "mtimeMs": 1535918721041.477,
+      "ctimeMs": 1536035223431.2117,
+      "birthtimeMs": 1535918721041.423,
+      "atime": "2018-09-04T05:22:55.231Z",
+      "mtime": "2018-09-02T20:05:21.041Z",
+      "ctime": "2018-09-04T04:27:03.431Z",
+      "birthtime": "2018-09-02T20:05:21.041Z"
+    },
+    "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fef193964fc7c139bea1d17dad270f09",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/Watson/jaxsite/src/posts/my-second-post/index.md",
+      "relativePath": "my-second-post/index.md",
+      "extension": "md",
+      "size": 403,
+      "prettySize": "403 B",
+      "modifiedTime": "2018-09-02T20:05:21.042Z",
+      "accessTime": "2018-09-04T04:34:41.353Z",
+      "changeTime": "2018-09-04T04:27:03.431Z",
+      "birthTime": "2018-09-02T20:05:21.041Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/posts/my-second-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "my-second-post",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050930,
+      "blocks": 8,
+      "atimeMs": 1536035681353.3748,
+      "mtimeMs": 1535918721041.53,
+      "ctimeMs": 1536035223431.1206,
+      "birthtimeMs": 1535918721041.4714,
+      "atime": "2018-09-04T04:34:41.353Z",
+      "mtime": "2018-09-02T20:05:21.042Z",
+      "ctime": "2018-09-04T04:27:03.431Z",
+      "birthtime": "2018-09-02T20:05:21.041Z"
+    },
+    "/Users/Watson/jaxsite/src/posts/hi-folks/index.md absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/posts/hi-folks/index.md absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "02e333427bb8c7b38214ad21a4a27e26",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/Watson/jaxsite/src/posts/hi-folks/index.md",
+      "relativePath": "hi-folks/index.md",
+      "extension": "md",
+      "size": 5495,
+      "prettySize": "5.5 kB",
+      "modifiedTime": "2018-09-02T20:05:21.041Z",
+      "accessTime": "2018-09-04T04:34:41.350Z",
+      "changeTime": "2018-09-04T04:27:03.429Z",
+      "birthTime": "2018-09-02T20:05:21.041Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/posts/hi-folks",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hi-folks",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050928,
+      "blocks": 16,
+      "atimeMs": 1536035681349.631,
+      "mtimeMs": 1535918721041.3184,
+      "ctimeMs": 1536035223429.449,
+      "birthtimeMs": 1535918721041.2117,
+      "atime": "2018-09-04T04:34:41.350Z",
+      "mtime": "2018-09-02T20:05:21.041Z",
+      "ctime": "2018-09-04T04:27:03.429Z",
+      "birthtime": "2018-09-02T20:05:21.041Z"
+    },
+    "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "24473f2b9c8dadb8fa8732f4d5d07009",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/Watson/jaxsite/src/posts/hello-world/index.md",
+      "relativePath": "hello-world/index.md",
+      "extension": "md",
+      "size": 1442,
+      "prettySize": "1.44 kB",
+      "modifiedTime": "2018-09-04T01:05:34.451Z",
+      "accessTime": "2018-09-04T04:34:41.401Z",
+      "changeTime": "2018-09-04T04:27:03.428Z",
+      "birthTime": "2018-09-02T20:05:21.039Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/posts/hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hello-world",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050926,
+      "blocks": 8,
+      "atimeMs": 1536035681401.2632,
+      "mtimeMs": 1536023134450.6858,
+      "ctimeMs": 1536035223427.7424,
+      "birthtimeMs": 1535918721038.6248,
+      "atime": "2018-09-04T04:34:41.401Z",
+      "mtime": "2018-09-04T01:05:34.451Z",
+      "ctime": "2018-09-04T04:27:03.428Z",
+      "birthtime": "2018-09-02T20:05:21.039Z"
+    },
+    "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: My Second Post!\ndate: \"2015-05-06T23:46:37.121Z\"\npath: \"/my-second-post/\"\n---\n\nWow! I love blogging so much already.\n\nDid you know that \"despite its name, salted duck eggs can also be made from chicken eggs, though the taste and texture will be somewhat different, and the egg yolk will be less rich.\"? ([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))\n\nYeah, I didn't either.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "e27e605c5e0335470651620f1f00fbd1",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Second Post!",
+        "date": "2015-05-06T23:46:37.121Z",
+        "path": "/my-second-post/",
+        "_PARENT": "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file",
+        "parent": "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Watson/jaxsite/src/posts/my-second-post/index.md"
+    },
+    "/Users/Watson/jaxsite/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Watson/jaxsite/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/posts/hi-folks/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: New Beginnings\ndate: \"2015-05-28T22:40:32.169Z\"\npath: \"/hi-folks/\"\n---\n\nFar far away, behind the word mountains, far from the countries Vokalia\nand Consonantia, there live the blind texts. Separated they live in\nBookmarksgrove right at the coast of the Semantics, a large language\nocean. A small river named Duden flows by their place and supplies it\nwith the necessary regelialia.\n\n## On deer horse aboard tritely yikes and much\n\nThe Big Oxmox advised her not to do so, because there were thousands of\nbad Commas, wild Question Marks and devious Semikoli, but the Little\nBlind Text didn’t listen. She packed her seven versalia, put her initial\ninto the belt and made herself on the way.\n\n*   This however showed weasel\n*   Well uncritical so misled\n    *   this is very interesting\n*   Goodness much until that fluid owl\n\nWhen she reached the first hills of the **Italic Mountains**, she\nhad a last view back on the skyline of her\nhometown _Bookmarksgrove_, the headline of [Alphabet\nVillage](http://google.com) and the subline of her own road, the\nLine Lane. Pityful a rethoric question ran over her cheek, then she\ncontinued her way. On her way she met a copy.\n\n### Overlaid the jeepers uselessly much excluding\n\nBut nothing the copy said could convince her and so it didn’t take\nlong until a few insidious Copy Writers ambushed her, made her drunk\nwith [Longe and Parole](http://google.com) and dragged her into\ntheir agency, where they abused her for their projects again and\nagain. And if she hasn’t been rewritten, then they are still using\nher.\n\n> Far far away, behind the word mountains, far from the countries\n> Vokalia and Consonantia, there live the blind texts. Separated\n> they live in Bookmarksgrove right at the coast of the Semantics, a\n> large language ocean. \n\nIt is a paradisematic country, in which roasted parts of sentences\nfly into your mouth. Even the all-powerful Pointing has no control\nabout the blind texts it is an almost unorthographic life One day\nhowever a small line of blind text by the name of Lorem Ipsum\ndecided to leave for the far World of Grammar.\n\n### According a funnily until pre-set or arrogant well cheerful\n\nThe Big Oxmox advised her not to do so, because there were thousands\nof bad Commas, wild Question Marks and devious Semikoli, but the\nLittle Blind Text didn’t listen. She packed her seven versalia, put\nher initial into the belt and made herself on the way.\n\n1.  So baboon this\n2.  Mounted militant weasel gregariously admonishingly straightly hey\n3.  Dear foresaw hungry and much some overhung\n4.  Rash opossum less because less some amid besides yikes jeepers frenetic impassive fruitlessly shut\n\nWhen she reached the first hills of the Italic Mountains, she had a\nlast view back on the skyline of her hometown Bookmarksgrove, the\nheadline of Alphabet Village and the subline of her own road, the\nLine Lane. Pityful a rethoric question ran over her cheek, then she\ncontinued her way. On her way she met a copy.\n\n> The copy warned the Little Blind Text, that where it came from it\n> would have been rewritten a thousand times and everything that was\n> left from its origin would be the word \"and\" and the Little Blind\n> Text should turn around and return to its own, safe country.\n\nBut nothing the copy said could convince her and so it didn’t take\nlong until a few insidious Copy Writers ambushed her, made her drunk\nwith Longe and Parole and dragged her into their agency, where they\nabused her for their projects again and again. And if she hasn’t\nbeen rewritten, then they are still using her. Far far away, behind\nthe word mountains, far from the countries Vokalia and Consonantia,\nthere live the blind texts.\n\n#### Silent delightfully including because before one up barring chameleon\n\nSeparated they live in Bookmarksgrove right at the coast of the\nSemantics, a large language ocean. A small river named Duden flows\nby their place and supplies it with the necessary regelialia. It is\na paradisematic country, in which roasted parts of sentences fly\ninto your mouth.\n\nEven the all-powerful Pointing has no control about the blind texts\nit is an almost unorthographic life One day however a small line of\nblind text by the name of Lorem Ipsum decided to leave for the far\nWorld of Grammar. The Big Oxmox advised her not to do so, because\nthere were thousands of bad Commas, wild Question Marks and devious\nSemikoli, but the Little Blind Text didn’t listen.\n\n##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along\n\nShe packed her seven versalia, put her initial into the belt and\nmade herself on the way. When she reached the first hills of the\nItalic Mountains, she had a last view back on the skyline of her\nhometown Bookmarksgrove, the headline of Alphabet Village and the\nsubline of her own road, the Line Lane. Pityful a rethoric question\nran over her cheek, then she continued her way. On her way she met a\ncopy.\n\n###### Slapped cozy a that lightheartedly and far\n\nThe copy warned the Little Blind Text, that where it came from it\nwould have been rewritten a thousand times and everything that was\nleft from its origin would be the word \"and\" and the Little Blind\nText should turn around and return to its own, safe country. But\nnothing the copy said could convince her and so it didn’t take long\nuntil a few insidious Copy Writers ambushed her, made her drunk with\nLonge and Parole and dragged her into their agency, where they\nabused her for their projects again and again.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "2952a99cadbe84cc43ff885466af8963",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "New Beginnings",
+        "date": "2015-05-28T22:40:32.169Z",
+        "path": "/hi-folks/",
+        "_PARENT": "/Users/Watson/jaxsite/src/posts/hi-folks/index.md absPath of file",
+        "parent": "/Users/Watson/jaxsite/src/posts/hi-folks/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Watson/jaxsite/src/posts/hi-folks/index.md"
+    },
+    "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Work\ndate: \"2018-07-11T22:12:03.284Z\"\npath: \"/hello-world/\"\n---\n\nShould I put my work on this page? I need a page on it's own for graphic design and separation of processes.\nI'm sure I'll write a lot more interesting things in the future.\n\nInspired to work on my site by my friend  [Chris Smith](https://chrisanthony91.github.io/TBC/index.html#Home).\n\n>Chris·to·pher Smith\n/ˈkrɪstəfɚ/ /ˈsmɪθ/\nnoun\n\n>1.\tA UI/UX Designer who provides directly applicable, user-driven solutions for digital and tech problems.\nBy paying close attention to how small details affect the bigger picture, Chris’s goal is to always to strive for effective, feasible solutions that can be applied to current and future systems.\n\n>2.\tA digital designer with a multidisciplinary background in computer science, cognitive science, graphic design, and user experience design.\nA varied background has taught Chris to consider problems from different angles, and to be able to communicate effectively across departments throughout the creative process.\n\n>3.\tAn all-around amiable and very funny fellow\nSome of Chris’s hobbies include snowboarding, cartoons, video games, and weight lifting. He has the random talent of vocal mimicry and making funny voices; Chris hopes to one day become a voice actor.\n\n>Synonyms: “The Black Chris”, “Your Next Designer”\n\n![The Man himself](https://chrisanthony91.github.io/TBC/images/MePortrait-color2.png)\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "d8f45399682482539b496e366f92cf58",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Work",
+        "date": "2018-07-11T22:12:03.284Z",
+        "path": "/hello-world/",
+        "_PARENT": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file",
+        "parent": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Watson/jaxsite/src/posts/hello-world/index.md"
+    },
+    "/Users/Watson/jaxsite/src/images absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "900dd050951d7738240aa84b12005266",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 416,
+      "prettySize": "416 B",
+      "modifiedTime": "2018-09-04T04:12:31.706Z",
+      "accessTime": "2018-09-04T05:22:55.303Z",
+      "changeTime": "2018-09-04T04:27:03.459Z",
+      "birthTime": "2018-09-02T20:05:21.030Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 13,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050932,
+      "blocks": 0,
+      "atimeMs": 1536038575302.7825,
+      "mtimeMs": 1536034351706.479,
+      "ctimeMs": 1536035223458.9246,
+      "birthtimeMs": 1535918721029.5754,
+      "atime": "2018-09-04T05:22:55.303Z",
+      "mtime": "2018-09-04T04:12:31.706Z",
+      "ctime": "2018-09-04T04:27:03.459Z",
+      "birthtime": "2018-09-02T20:05:21.030Z"
+    },
+    "/Users/Watson/jaxsite/src/images/.DS_Store absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-09-04T04:12:40.543Z",
+      "accessTime": "2018-09-04T04:12:17.022Z",
+      "changeTime": "2018-09-04T04:27:03.438Z",
+      "birthTime": "2018-09-04T04:12:14.078Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050933,
+      "blocks": 16,
+      "atimeMs": 1536034337021.7402,
+      "mtimeMs": 1536034360543.2346,
+      "ctimeMs": 1536035223437.869,
+      "birthtimeMs": 1536034334078.2637,
+      "atime": "2018-09-04T04:12:17.022Z",
+      "mtime": "2018-09-04T04:12:40.543Z",
+      "ctime": "2018-09-04T04:27:03.438Z",
+      "birthtime": "2018-09-04T04:12:14.078Z"
+    },
+    "/Users/Watson/jaxsite/src/images/favi-logo.png absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/favi-logo.png absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/favi-logo.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5d4cec2d81bb7400cf660f5c60cca756",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/favi-logo.png",
+      "relativePath": "favi-logo.png",
+      "extension": "png",
+      "size": 1735,
+      "prettySize": "1.74 kB",
+      "modifiedTime": "2018-09-03T04:40:25.980Z",
+      "accessTime": "2018-09-04T04:34:41.395Z",
+      "changeTime": "2018-09-04T04:27:03.458Z",
+      "birthTime": "2018-09-03T04:40:25.980Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "favi-logo.png",
+      "ext": ".png",
+      "name": "favi-logo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050942,
+      "blocks": 8,
+      "atimeMs": 1536035681395.0562,
+      "mtimeMs": 1535949625980.4028,
+      "ctimeMs": 1536035223458.2344,
+      "birthtimeMs": 1535949625980.2847,
+      "atime": "2018-09-04T04:34:41.395Z",
+      "mtime": "2018-09-03T04:40:25.980Z",
+      "ctime": "2018-09-04T04:27:03.458Z",
+      "birthtime": "2018-09-03T04:40:25.980Z"
+    },
+    "/Users/Watson/jaxsite/src/images/favi_logo2.png absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/favi_logo2.png absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/favi_logo2.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0f61d1cb3a4ca907a36a3324047518e2",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/favi_logo2.png",
+      "relativePath": "favi_logo2.png",
+      "extension": "png",
+      "size": 1624,
+      "prettySize": "1.62 kB",
+      "modifiedTime": "2018-09-03T05:55:36.500Z",
+      "accessTime": "2018-09-04T04:34:41.349Z",
+      "changeTime": "2018-09-04T04:27:03.438Z",
+      "birthTime": "2018-09-03T05:55:36.500Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "favi_logo2.png",
+      "ext": ".png",
+      "name": "favi_logo2",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050934,
+      "blocks": 8,
+      "atimeMs": 1536035681349.411,
+      "mtimeMs": 1535954136499.8455,
+      "ctimeMs": 1536035223438.4883,
+      "birthtimeMs": 1535954136499.7473,
+      "atime": "2018-09-04T04:34:41.349Z",
+      "mtime": "2018-09-03T05:55:36.500Z",
+      "ctime": "2018-09-04T04:27:03.438Z",
+      "birthtime": "2018-09-03T05:55:36.500Z"
+    },
+    "/Users/Watson/jaxsite/src/images/favi_logo3.png absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/favi_logo3.png absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/favi_logo3.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b77da4b18e1218d7c069592934bddc3a",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/favi_logo3.png",
+      "relativePath": "favi_logo3.png",
+      "extension": "png",
+      "size": 1712,
+      "prettySize": "1.71 kB",
+      "modifiedTime": "2018-09-03T06:07:46.055Z",
+      "accessTime": "2018-09-04T04:34:41.349Z",
+      "changeTime": "2018-09-04T04:27:03.439Z",
+      "birthTime": "2018-09-03T06:07:46.055Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "favi_logo3.png",
+      "ext": ".png",
+      "name": "favi_logo3",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050935,
+      "blocks": 8,
+      "atimeMs": 1536035681349.3875,
+      "mtimeMs": 1535954866055.1023,
+      "ctimeMs": 1536035223439.0305,
+      "birthtimeMs": 1535954866054.9307,
+      "atime": "2018-09-04T04:34:41.349Z",
+      "mtime": "2018-09-03T06:07:46.055Z",
+      "ctime": "2018-09-04T04:27:03.439Z",
+      "birthtime": "2018-09-03T06:07:46.055Z"
+    },
+    "/Users/Watson/jaxsite/src/images/overlay.png absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/overlay.png absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/overlay.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/overlay.png",
+      "relativePath": "overlay.png",
+      "extension": "png",
+      "size": 4385,
+      "prettySize": "4.38 kB",
+      "modifiedTime": "2018-09-02T20:05:21.036Z",
+      "accessTime": "2018-09-04T04:34:41.397Z",
+      "changeTime": "2018-09-04T04:27:03.445Z",
+      "birthTime": "2018-09-02T20:05:21.036Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "overlay.png",
+      "ext": ".png",
+      "name": "overlay",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050940,
+      "blocks": 16,
+      "atimeMs": 1536035681397.2085,
+      "mtimeMs": 1535918721035.8066,
+      "ctimeMs": 1536035223444.7961,
+      "birthtimeMs": 1535918721035.6487,
+      "atime": "2018-09-04T04:34:41.397Z",
+      "mtime": "2018-09-02T20:05:21.036Z",
+      "ctime": "2018-09-04T04:27:03.445Z",
+      "birthtime": "2018-09-02T20:05:21.036Z"
+    },
+    "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d537afae25e1f5de2071ec39e6956980",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/pic03.jpg",
+      "relativePath": "pic03.jpg",
+      "extension": "jpg",
+      "size": 9697,
+      "prettySize": "9.7 kB",
+      "modifiedTime": "2018-09-02T20:05:21.037Z",
+      "accessTime": "2018-09-04T04:34:41.375Z",
+      "changeTime": "2018-09-04T04:27:03.441Z",
+      "birthTime": "2018-09-02T20:05:21.037Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "pic03.jpg",
+      "ext": ".jpg",
+      "name": "pic03",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050938,
+      "blocks": 24,
+      "atimeMs": 1536035681374.604,
+      "mtimeMs": 1535918721037.2598,
+      "ctimeMs": 1536035223441.1597,
+      "birthtimeMs": 1535918721037.019,
+      "atime": "2018-09-04T04:34:41.375Z",
+      "mtime": "2018-09-02T20:05:21.037Z",
+      "ctime": "2018-09-04T04:27:03.441Z",
+      "birthtime": "2018-09-02T20:05:21.037Z"
+    },
+    "/Users/Watson/jaxsite/src/images/pic01.jpg absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/pic01.jpg absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/pic01.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "55e1797fd15a7113b2be5a8fc1363d93",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/pic01.jpg",
+      "relativePath": "pic01.jpg",
+      "extension": "jpg",
+      "size": 10064,
+      "prettySize": "10.1 kB",
+      "modifiedTime": "2018-09-02T20:05:21.036Z",
+      "accessTime": "2018-09-04T04:34:41.354Z",
+      "changeTime": "2018-09-04T04:27:03.440Z",
+      "birthTime": "2018-09-02T20:05:21.036Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "pic01.jpg",
+      "ext": ".jpg",
+      "name": "pic01",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050936,
+      "blocks": 24,
+      "atimeMs": 1536035681354.3027,
+      "mtimeMs": 1535918721036.1707,
+      "ctimeMs": 1536035223439.6436,
+      "birthtimeMs": 1535918721035.9707,
+      "atime": "2018-09-04T04:34:41.354Z",
+      "mtime": "2018-09-02T20:05:21.036Z",
+      "ctime": "2018-09-04T04:27:03.440Z",
+      "birthtime": "2018-09-02T20:05:21.036Z"
+    },
+    "/Users/Watson/jaxsite/src/images/pic02.jpg absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/pic02.jpg absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/pic02.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4528ad9f4ac47247d0e81d536ab02791",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/pic02.jpg",
+      "relativePath": "pic02.jpg",
+      "extension": "jpg",
+      "size": 8904,
+      "prettySize": "8.9 kB",
+      "modifiedTime": "2018-09-02T20:05:21.037Z",
+      "accessTime": "2018-09-04T04:34:41.353Z",
+      "changeTime": "2018-09-04T04:27:03.440Z",
+      "birthTime": "2018-09-02T20:05:21.036Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "pic02.jpg",
+      "ext": ".jpg",
+      "name": "pic02",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050937,
+      "blocks": 24,
+      "atimeMs": 1536035681353.4756,
+      "mtimeMs": 1535918721036.821,
+      "ctimeMs": 1536035223440.4707,
+      "birthtimeMs": 1535918721036.489,
+      "atime": "2018-09-04T04:34:41.353Z",
+      "mtime": "2018-09-02T20:05:21.037Z",
+      "ctime": "2018-09-04T04:27:03.440Z",
+      "birthtime": "2018-09-02T20:05:21.036Z"
+    },
+    "/Users/Watson/jaxsite/src/images/favi-logo.png absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/favi-logo.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/favi-logo.png absPath of file",
+      "internal": {
+        "contentDigest": "5d4cec2d81bb7400cf660f5c60cca756",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Watson/jaxsite/src/images/favi_logo2.png absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/favi_logo2.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/favi_logo2.png absPath of file",
+      "internal": {
+        "contentDigest": "0f61d1cb3a4ca907a36a3324047518e2",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Watson/jaxsite/src/images/favi_logo3.png absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/favi_logo3.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/favi_logo3.png absPath of file",
+      "internal": {
+        "contentDigest": "b77da4b18e1218d7c069592934bddc3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Watson/jaxsite/src/images/overlay.png absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/overlay.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/overlay.png absPath of file",
+      "internal": {
+        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file",
+      "internal": {
+        "contentDigest": "d537afae25e1f5de2071ec39e6956980",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Watson/jaxsite/src/images/pic01.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/pic01.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/pic01.jpg absPath of file",
+      "internal": {
+        "contentDigest": "55e1797fd15a7113b2be5a8fc1363d93",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Watson/jaxsite/src/images/pic02.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/pic02.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/pic02.jpg absPath of file",
+      "internal": {
+        "contentDigest": "4528ad9f4ac47247d0e81d536ab02791",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Watson/jaxsite/src/images/bg.jpg absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/bg.jpg absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/bg.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "17b3e1aaa6ab5e92fc164e15d9dafc74",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/bg.jpg",
+      "relativePath": "bg.jpg",
+      "extension": "jpg",
+      "size": 692828,
+      "prettySize": "693 kB",
+      "modifiedTime": "2018-09-02T20:05:21.035Z",
+      "accessTime": "2018-09-04T04:34:41.401Z",
+      "changeTime": "2018-09-04T04:27:03.459Z",
+      "birthTime": "2018-09-02T20:05:21.030Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "bg.jpg",
+      "ext": ".jpg",
+      "name": "bg",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050943,
+      "blocks": 1360,
+      "atimeMs": 1536035681401.0112,
+      "mtimeMs": 1535918721035.2576,
+      "ctimeMs": 1536035223458.7896,
+      "birthtimeMs": 1535918721029.6829,
+      "atime": "2018-09-04T04:34:41.401Z",
+      "mtime": "2018-09-02T20:05:21.035Z",
+      "ctime": "2018-09-04T04:27:03.459Z",
+      "birthtime": "2018-09-02T20:05:21.030Z"
+    },
+    "/Users/Watson/jaxsite/src/images/bg.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/bg.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/bg.jpg absPath of file",
+      "internal": {
+        "contentDigest": "17b3e1aaa6ab5e92fc164e15d9dafc74",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Watson/jaxsite/src/images/jax.logo.png absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/jax.logo.png absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/jax.logo.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "559efdd42c433c4d94f40ab3558a3838",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/jax.logo.png",
+      "relativePath": "jax.logo.png",
+      "extension": "png",
+      "size": 1319483,
+      "prettySize": "1.32 MB",
+      "modifiedTime": "2018-09-03T17:08:52.789Z",
+      "accessTime": "2018-09-04T04:34:41.375Z",
+      "changeTime": "2018-09-04T04:27:03.444Z",
+      "birthTime": "2018-09-03T17:08:52.788Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "jax.logo.png",
+      "ext": ".png",
+      "name": "jax.logo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050939,
+      "blocks": 2584,
+      "atimeMs": 1536035681374.8901,
+      "mtimeMs": 1535994532788.6216,
+      "ctimeMs": 1536035223444.1929,
+      "birthtimeMs": 1535994532787.6653,
+      "atime": "2018-09-04T04:34:41.375Z",
+      "mtime": "2018-09-03T17:08:52.789Z",
+      "ctime": "2018-09-04T04:27:03.444Z",
+      "birthtime": "2018-09-03T17:08:52.788Z"
+    },
+    "/Users/Watson/jaxsite/src/images/jax.logo.png absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/jax.logo.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/jax.logo.png absPath of file",
+      "internal": {
+        "contentDigest": "559efdd42c433c4d94f40ab3558a3838",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Watson/jaxsite/src/images/yosemite-sunset.jpg absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/yosemite-sunset.jpg absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/yosemite-sunset.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d730fb43c416d8b08ead5443540c76c",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/yosemite-sunset.jpg",
+      "relativePath": "yosemite-sunset.jpg",
+      "extension": "jpg",
+      "size": 6232691,
+      "prettySize": "6.23 MB",
+      "modifiedTime": "2018-09-03T09:14:05.046Z",
+      "accessTime": "2018-09-04T04:34:41.397Z",
+      "changeTime": "2018-09-04T04:27:03.458Z",
+      "birthTime": "2018-09-03T09:14:03.250Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "yosemite-sunset.jpg",
+      "ext": ".jpg",
+      "name": "yosemite-sunset",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605050941,
+      "blocks": 12320,
+      "atimeMs": 1536035681396.696,
+      "mtimeMs": 1535966045045.6743,
+      "ctimeMs": 1536035223457.6404,
+      "birthtimeMs": 1535966043249.551,
+      "atime": "2018-09-04T04:34:41.397Z",
+      "mtime": "2018-09-03T09:14:05.046Z",
+      "ctime": "2018-09-04T04:27:03.458Z",
+      "birthtime": "2018-09-03T09:14:03.250Z"
+    },
+    "/Users/Watson/jaxsite/src/images/yosemite-sunset.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/yosemite-sunset.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/yosemite-sunset.jpg absPath of file",
+      "internal": {
+        "contentDigest": "8d730fb43c416d8b08ead5443540c76c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /my-second-post/": {
+      "layout": "index",
+      "jsonName": "my-second-post.json",
+      "internalComponentName": "ComponentMySecondPost",
+      "path": "/my-second-post/",
+      "component": "/Users/Watson/jaxsite/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Watson/jaxsite/src/templates/blog-post.js",
+      "id": "SitePage /my-second-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bad7a97572e01b82d5c0f4dd993efed5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hi-folks/": {
+      "layout": "index",
+      "jsonName": "hi-folks.json",
+      "internalComponentName": "ComponentHiFolks",
+      "path": "/hi-folks/",
+      "component": "/Users/Watson/jaxsite/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Watson/jaxsite/src/templates/blog-post.js",
+      "id": "SitePage /hi-folks/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f3430c09aa55f249fa302edc63cae166",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/Users/Watson/jaxsite/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Watson/jaxsite/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "628b3e360d511d78c6f58058513651ae",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/Watson/jaxsite/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Watson/jaxsite/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5ef375cb7a0b7d3cb4e3b3e3709f1b82",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/Watson/jaxsite/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Watson/jaxsite/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ecc8a24deb640157ba0cfb7a8724579b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/Watson/jaxsite/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Watson/jaxsite/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8f26868a6de7fda19075cef03ec5195e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /new-page/": {
+      "layout": "index",
+      "jsonName": "new-page.json",
+      "internalComponentName": "ComponentNewPage",
+      "path": "/new-page/",
+      "component": "/Users/Watson/jaxsite/src/pages/new-page.js",
+      "componentChunkName": "component---src-pages-new-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Watson/jaxsite/src/pages/new-page.js",
+      "id": "SitePage /new-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fd91b1899b339c1077d6b5f2ef7f72c6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /work/": {
+      "layout": "index",
+      "jsonName": "work.json",
+      "internalComponentName": "ComponentWork",
+      "path": "/work/",
+      "component": "/Users/Watson/jaxsite/src/pages/work.js",
+      "componentChunkName": "component---src-pages-work-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Watson/jaxsite/src/pages/work.js",
+      "id": "SitePage /work/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2344889853def11634b14e59aea69341",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "5de742f44f2cd6c9f1ee7ebd89f41b7b"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/hello-world/",
+        "/hi-folks/",
+        "/my-second-post/",
+        "/new-page/",
+        "LAYOUT___index",
+        "/work/"
+      ],
+      "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world/"
+      ],
+      "/Users/Watson/jaxsite/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark": [
+        "/hi-folks/"
+      ],
+      "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": [
+        "/my-second-post/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

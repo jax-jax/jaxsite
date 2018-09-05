@@ -1,5 +1,21 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import logo from '../images/jax.logo.png'
+
+const Menu= props =>
+
+<nav id="menu">
+   <header>
+      <Link className="nav-logo" to="/"><img src= {logo}/> </Link>
+      <ul>
+         <li><a href="/work">Work</a></li>
+         <li><a href="/about">About</a></li>
+         <li><a href="/Contact">Contact</a></li>
+      </ul>
+   </header>
+</nav>
+
+/*
 
 const Menu = (props) => (
     <nav id="menu">
@@ -22,5 +38,5 @@ const Menu = (props) => (
 Menu.propTypes = {
     onToggleMenu: React.PropTypes.func
 }
-
+*/
 export default Menu
