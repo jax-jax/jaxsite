@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Jacklyn Phu - Design Portfolio",
+    title: "Jacklyn Phu | Design Portfolio",
     author: "Jacklyn Phu",
     description: "The Wonders of Jacklyn",
     logo: `${__dirname}/src/images/favi_logo3.png`,

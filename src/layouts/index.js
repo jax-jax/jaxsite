@@ -110,6 +110,8 @@ class Template extends React.Component {
       )
     } else {
       content = (
+      <div>
+         <Menu/>
         <div id="wrapper" className="page">
           <div style={{
             maxWidth: '1140px'
@@ -117,6 +119,7 @@ class Template extends React.Component {
             {children()}
           </div>
         </div>
+       </div>
       )
     }
 
