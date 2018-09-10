@@ -1,7 +1,7 @@
 ///
 ///
 ///
-/// 
+///
 
 /* Wrapper */
 
@@ -10,6 +10,7 @@
 		@include vendor('flex-direction', 'column');
 		@include vendor('align-items', 'center');
 		@include vendor('justify-content', 'space-between');
+		margin-top: 6rem;
 		position: relative;
 		min-height: 100vh;
 		width: 100%;

@@ -17,11 +17,13 @@
 		top: 0;
 		width: 100%;
 		padding: 1em;
+		z-index: 4;
 
 	header{
 		.nav-logo {
 			text-shadow: none;
 			background-image: none;
+			border-bottom: none;
 				& img {
 				display: inline;
 				height: 4.5rem;
@@ -36,6 +38,12 @@
 			li {
 				display: inline-block;
 				margin-right: 1em;
+
+				> a {
+					&:hover{
+					border-bottom: double;
+					}
+				}
 			}
 		}
 	}
