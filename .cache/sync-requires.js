@@ -18,9 +18,9 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/Users/Watson/jaxsite/.cache/json/layout-index.json"),
+  "hello-world.json": require("/Users/Watson/jaxsite/.cache/json/hello-world.json"),
   "my-second-post.json": require("/Users/Watson/jaxsite/.cache/json/my-second-post.json"),
   "hi-folks.json": require("/Users/Watson/jaxsite/.cache/json/hi-folks.json"),
-  "hello-world.json": require("/Users/Watson/jaxsite/.cache/json/hello-world.json"),
   "dev-404-page.json": require("/Users/Watson/jaxsite/.cache/json/dev-404-page.json"),
   "about.json": require("/Users/Watson/jaxsite/.cache/json/about.json"),
   "contact.json": require("/Users/Watson/jaxsite/.cache/json/contact.json"),

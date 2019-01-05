@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "adfeb3999ef1113c733a376899e4d60f",
+        "contentDigest": "eeac97eed9ad6e30733f89efc373a0d2",
         "owner": "internal-data-bridge"
       }
     },
@@ -1012,7 +1012,7 @@
       "resolve": "/Users/Watson/jaxsite",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "6efba7c9e54878bacbe0111416eb3475",
+      "version": "59daaebb033155451ecc35071e03f789",
       "pluginOptions": {
         "plugins": []
       },
@@ -1094,7 +1094,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "49fd86bc54344180d9a2080ed0becaba",
+        "contentDigest": "0b14c1d0b0504c31175684957870ddd6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1108,13 +1108,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "/",
-      "buildTime": "2018-09-10T16:06:01.061Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-01-05T06:56:53.671Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "57a37118e10d3375396721528585058b",
+        "contentDigest": "be01b2376801800af9750065dbf09c29",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1124,7 +1125,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e896e17667da8fe5ed7158023259327b",
+        "contentDigest": "5ae30d5d5d295792caa01cb79ae47c14",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1135,7 +1136,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-09-02T20:05:21.041Z",
-      "accessTime": "2018-09-10T16:06:06.550Z",
+      "accessTime": "2019-01-05T06:56:59.070Z",
       "changeTime": "2018-09-04T04:27:03.431Z",
       "birthTime": "2018-09-02T20:05:21.039Z",
       "root": "/",
@@ -1150,14 +1151,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050924,
       "blocks": 0,
-      "atimeMs": 1536595566549.6235,
+      "atimeMs": 1546671419069.8538,
       "mtimeMs": 1535918721041.429,
       "ctimeMs": 1536035223431.2952,
       "birthtimeMs": 1535918721038.5017,
-      "atime": "2018-09-10T16:06:06.550Z",
+      "atime": "2019-01-05T06:56:59.070Z",
       "mtime": "2018-09-02T20:05:21.041Z",
       "ctime": "2018-09-04T04:27:03.431Z",
       "birthtime": "2018-09-02T20:05:21.039Z"
@@ -1167,7 +1168,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "843146f8c6c2df7b04f58e84568d72d5",
+        "contentDigest": "e35aaeab8e09b32adbdbd429c513aba4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1177,9 +1178,9 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-09-04T01:03:11.486Z",
-      "accessTime": "2018-09-10T16:06:06.553Z",
-      "changeTime": "2018-09-04T04:27:03.428Z",
+      "modifiedTime": "2019-01-05T06:54:21.505Z",
+      "accessTime": "2019-01-05T06:56:59.078Z",
+      "changeTime": "2019-01-05T06:54:21.505Z",
       "birthTime": "2018-09-02T20:05:21.039Z",
       "root": "/",
       "dir": "/Users/Watson/jaxsite/src/posts",
@@ -1193,16 +1194,16 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050925,
       "blocks": 0,
-      "atimeMs": 1536595566552.998,
-      "mtimeMs": 1536022991486.3352,
-      "ctimeMs": 1536035223428.3542,
+      "atimeMs": 1546671419077.6155,
+      "mtimeMs": 1546671261504.7646,
+      "ctimeMs": 1546671261504.7646,
       "birthtimeMs": 1535918721038.55,
-      "atime": "2018-09-10T16:06:06.553Z",
-      "mtime": "2018-09-04T01:03:11.486Z",
-      "ctime": "2018-09-04T04:27:03.428Z",
+      "atime": "2019-01-05T06:56:59.078Z",
+      "mtime": "2019-01-05T06:54:21.505Z",
+      "ctime": "2019-01-05T06:54:21.505Z",
       "birthtime": "2018-09-02T20:05:21.039Z"
     },
     "/Users/Watson/jaxsite/src/posts/hi-folks absPath of file": {
@@ -1210,7 +1211,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0f1e43535e3b2667e387728eb4a2659a",
+        "contentDigest": "3fa06301a4952e4c28fb1872d92128f2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1221,7 +1222,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-09-02T20:05:21.041Z",
-      "accessTime": "2018-09-10T16:06:06.553Z",
+      "accessTime": "2019-01-05T06:56:59.078Z",
       "changeTime": "2018-09-04T04:27:03.430Z",
       "birthTime": "2018-09-02T20:05:21.041Z",
       "root": "/",
@@ -1236,14 +1237,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050927,
       "blocks": 0,
-      "atimeMs": 1536595566553.1384,
+      "atimeMs": 1546671419077.7632,
       "mtimeMs": 1535918721041.2183,
       "ctimeMs": 1536035223429.569,
       "birthtimeMs": 1535918721041.1235,
-      "atime": "2018-09-10T16:06:06.553Z",
+      "atime": "2019-01-05T06:56:59.078Z",
       "mtime": "2018-09-02T20:05:21.041Z",
       "ctime": "2018-09-04T04:27:03.430Z",
       "birthtime": "2018-09-02T20:05:21.041Z"
@@ -1253,7 +1254,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f3e6aeb0f2d32100d9d5047ea3328808",
+        "contentDigest": "bbb3d1a1a198471b46dcc95b0685a5dd",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1264,7 +1265,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-09-02T20:05:21.041Z",
-      "accessTime": "2018-09-10T16:06:06.553Z",
+      "accessTime": "2019-01-05T06:56:59.078Z",
       "changeTime": "2018-09-04T04:27:03.431Z",
       "birthTime": "2018-09-02T20:05:21.041Z",
       "root": "/",
@@ -1279,17 +1280,63 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050929,
       "blocks": 0,
-      "atimeMs": 1536595566553.169,
+      "atimeMs": 1546671419077.9163,
       "mtimeMs": 1535918721041.477,
       "ctimeMs": 1536035223431.2117,
       "birthtimeMs": 1535918721041.423,
-      "atime": "2018-09-10T16:06:06.553Z",
+      "atime": "2019-01-05T06:56:59.078Z",
       "mtime": "2018-09-02T20:05:21.041Z",
       "ctime": "2018-09-04T04:27:03.431Z",
       "birthtime": "2018-09-02T20:05:21.041Z"
+    },
+    "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "24473f2b9c8dadb8fa8732f4d5d07009",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/Watson/jaxsite/src/posts/hello-world/index.md",
+      "relativePath": "hello-world/index.md",
+      "extension": "md",
+      "size": 1442,
+      "prettySize": "1.44 kB",
+      "modifiedTime": "2019-01-05T06:54:21.505Z",
+      "accessTime": "2019-01-05T06:54:24.226Z",
+      "changeTime": "2019-01-05T06:54:21.505Z",
+      "birthTime": "2019-01-05T06:54:21.505Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/posts/hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hello-world",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8609967464,
+      "blocks": 8,
+      "atimeMs": 1546671264225.8848,
+      "mtimeMs": 1546671261505.115,
+      "ctimeMs": 1546671261505.115,
+      "birthtimeMs": 1546671261504.75,
+      "atime": "2019-01-05T06:54:24.226Z",
+      "mtime": "2019-01-05T06:54:21.505Z",
+      "ctime": "2019-01-05T06:54:21.505Z",
+      "birthtime": "2019-01-05T06:54:21.505Z"
     },
     "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file": {
       "id": "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file",
@@ -1310,7 +1357,7 @@
       "size": 403,
       "prettySize": "403 B",
       "modifiedTime": "2018-09-02T20:05:21.042Z",
-      "accessTime": "2018-09-04T04:34:41.353Z",
+      "accessTime": "2019-01-05T06:33:06.985Z",
       "changeTime": "2018-09-04T04:27:03.431Z",
       "birthTime": "2018-09-02T20:05:21.041Z",
       "root": "/",
@@ -1325,14 +1372,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050930,
       "blocks": 8,
-      "atimeMs": 1536035681353.3748,
+      "atimeMs": 1546669986985.2397,
       "mtimeMs": 1535918721041.53,
       "ctimeMs": 1536035223431.1206,
       "birthtimeMs": 1535918721041.4714,
-      "atime": "2018-09-04T04:34:41.353Z",
+      "atime": "2019-01-05T06:33:06.985Z",
       "mtime": "2018-09-02T20:05:21.042Z",
       "ctime": "2018-09-04T04:27:03.431Z",
       "birthtime": "2018-09-02T20:05:21.041Z"
@@ -1356,7 +1403,7 @@
       "size": 5495,
       "prettySize": "5.5 kB",
       "modifiedTime": "2018-09-02T20:05:21.041Z",
-      "accessTime": "2018-09-04T04:34:41.350Z",
+      "accessTime": "2019-01-05T06:33:13.319Z",
       "changeTime": "2018-09-04T04:27:03.429Z",
       "birthTime": "2018-09-02T20:05:21.041Z",
       "root": "/",
@@ -1371,63 +1418,37 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050928,
       "blocks": 16,
-      "atimeMs": 1536035681349.631,
+      "atimeMs": 1546669993319.0107,
       "mtimeMs": 1535918721041.3184,
       "ctimeMs": 1536035223429.449,
       "birthtimeMs": 1535918721041.2117,
-      "atime": "2018-09-04T04:34:41.350Z",
+      "atime": "2019-01-05T06:33:13.319Z",
       "mtime": "2018-09-02T20:05:21.041Z",
       "ctime": "2018-09-04T04:27:03.429Z",
       "birthtime": "2018-09-02T20:05:21.041Z"
     },
-    "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file": {
-      "id": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file",
-      "children": [
-        "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
+    "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file",
       "internal": {
-        "contentDigest": "24473f2b9c8dadb8fa8732f4d5d07009",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
+        "content": "---\ntitle: Work\ndate: \"2018-07-11T22:12:03.284Z\"\npath: \"/hello-world/\"\n---\n\nShould I put my work on this page? I need a page on it's own for graphic design and separation of processes.\nI'm sure I'll write a lot more interesting things in the future.\n\nInspired to work on my site by my friend  [Chris Smith](https://chrisanthony91.github.io/TBC/index.html#Home).\n\n>Chris·to·pher Smith\n/ˈkrɪstəfɚ/ /ˈsmɪθ/\nnoun\n\n>1.\tA UI/UX Designer who provides directly applicable, user-driven solutions for digital and tech problems.\nBy paying close attention to how small details affect the bigger picture, Chris’s goal is to always to strive for effective, feasible solutions that can be applied to current and future systems.\n\n>2.\tA digital designer with a multidisciplinary background in computer science, cognitive science, graphic design, and user experience design.\nA varied background has taught Chris to consider problems from different angles, and to be able to communicate effectively across departments throughout the creative process.\n\n>3.\tAn all-around amiable and very funny fellow\nSome of Chris’s hobbies include snowboarding, cartoons, video games, and weight lifting. He has the random talent of vocal mimicry and making funny voices; Chris hopes to one day become a voice actor.\n\n>Synonyms: “The Black Chris”, “Your Next Designer”\n\n![The Man himself](https://chrisanthony91.github.io/TBC/images/MePortrait-color2.png)\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "d8f45399682482539b496e366f92cf58",
+        "owner": "gatsby-transformer-remark"
       },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/Watson/jaxsite/src/posts/hello-world/index.md",
-      "relativePath": "hello-world/index.md",
-      "extension": "md",
-      "size": 1442,
-      "prettySize": "1.44 kB",
-      "modifiedTime": "2018-09-04T01:05:34.451Z",
-      "accessTime": "2018-09-04T04:34:41.401Z",
-      "changeTime": "2018-09-04T04:27:03.428Z",
-      "birthTime": "2018-09-02T20:05:21.039Z",
-      "root": "/",
-      "dir": "/Users/Watson/jaxsite/src/posts/hello-world",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "hello-world",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8605050926,
-      "blocks": 8,
-      "atimeMs": 1536035681401.2632,
-      "mtimeMs": 1536023134450.6858,
-      "ctimeMs": 1536035223427.7424,
-      "birthtimeMs": 1535918721038.6248,
-      "atime": "2018-09-04T04:34:41.401Z",
-      "mtime": "2018-09-04T01:05:34.451Z",
-      "ctime": "2018-09-04T04:27:03.428Z",
-      "birthtime": "2018-09-02T20:05:21.039Z"
+      "frontmatter": {
+        "title": "Work",
+        "date": "2018-07-11T22:12:03.284Z",
+        "path": "/hello-world/",
+        "_PARENT": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file",
+        "parent": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Watson/jaxsite/src/posts/hello-world/index.md"
     },
     "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark",
@@ -1469,32 +1490,12 @@
       "excerpt": "",
       "fileAbsolutePath": "/Users/Watson/jaxsite/src/posts/hi-folks/index.md"
     },
-    "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Work\ndate: \"2018-07-11T22:12:03.284Z\"\npath: \"/hello-world/\"\n---\n\nShould I put my work on this page? I need a page on it's own for graphic design and separation of processes.\nI'm sure I'll write a lot more interesting things in the future.\n\nInspired to work on my site by my friend  [Chris Smith](https://chrisanthony91.github.io/TBC/index.html#Home).\n\n>Chris·to·pher Smith\n/ˈkrɪstəfɚ/ /ˈsmɪθ/\nnoun\n\n>1.\tA UI/UX Designer who provides directly applicable, user-driven solutions for digital and tech problems.\nBy paying close attention to how small details affect the bigger picture, Chris’s goal is to always to strive for effective, feasible solutions that can be applied to current and future systems.\n\n>2.\tA digital designer with a multidisciplinary background in computer science, cognitive science, graphic design, and user experience design.\nA varied background has taught Chris to consider problems from different angles, and to be able to communicate effectively across departments throughout the creative process.\n\n>3.\tAn all-around amiable and very funny fellow\nSome of Chris’s hobbies include snowboarding, cartoons, video games, and weight lifting. He has the random talent of vocal mimicry and making funny voices; Chris hopes to one day become a voice actor.\n\n>Synonyms: “The Black Chris”, “Your Next Designer”\n\n![The Man himself](https://chrisanthony91.github.io/TBC/images/MePortrait-color2.png)\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "d8f45399682482539b496e366f92cf58",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Work",
-        "date": "2018-07-11T22:12:03.284Z",
-        "path": "/hello-world/",
-        "_PARENT": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file",
-        "parent": "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Watson/jaxsite/src/posts/hello-world/index.md"
-    },
     "/Users/Watson/jaxsite/src/images absPath of file": {
       "id": "/Users/Watson/jaxsite/src/images absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5f95af4e790322617233ae237d641ba5",
+        "contentDigest": "13f7d2e9c3444b9a3b305ba321a3d165",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1505,7 +1506,7 @@
       "size": 416,
       "prettySize": "416 B",
       "modifiedTime": "2018-09-04T04:12:31.706Z",
-      "accessTime": "2018-09-10T16:06:06.575Z",
+      "accessTime": "2019-01-05T06:56:59.200Z",
       "changeTime": "2018-09-04T04:27:03.459Z",
       "birthTime": "2018-09-02T20:05:21.030Z",
       "root": "/",
@@ -1520,14 +1521,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050932,
       "blocks": 0,
-      "atimeMs": 1536595566575.364,
+      "atimeMs": 1546671419200.4153,
       "mtimeMs": 1536034351706.479,
       "ctimeMs": 1536035223458.9246,
       "birthtimeMs": 1535918721029.5754,
-      "atime": "2018-09-10T16:06:06.575Z",
+      "atime": "2019-01-05T06:56:59.200Z",
       "mtime": "2018-09-04T04:12:31.706Z",
       "ctime": "2018-09-04T04:27:03.459Z",
       "birthtime": "2018-09-02T20:05:21.030Z"
@@ -1549,7 +1550,7 @@
       "size": 6148,
       "prettySize": "6.15 kB",
       "modifiedTime": "2018-09-04T04:12:40.543Z",
-      "accessTime": "2018-09-04T04:12:17.022Z",
+      "accessTime": "2019-01-05T06:28:04.644Z",
       "changeTime": "2018-09-04T04:27:03.438Z",
       "birthTime": "2018-09-04T04:12:14.078Z",
       "root": "/",
@@ -1564,14 +1565,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050933,
       "blocks": 16,
-      "atimeMs": 1536034337021.7402,
+      "atimeMs": 1546669684643.6292,
       "mtimeMs": 1536034360543.2346,
       "ctimeMs": 1536035223437.869,
       "birthtimeMs": 1536034334078.2637,
-      "atime": "2018-09-04T04:12:17.022Z",
+      "atime": "2019-01-05T06:28:04.644Z",
       "mtime": "2018-09-04T04:12:40.543Z",
       "ctime": "2018-09-04T04:27:03.438Z",
       "birthtime": "2018-09-04T04:12:14.078Z"
@@ -1595,7 +1596,7 @@
       "size": 1735,
       "prettySize": "1.74 kB",
       "modifiedTime": "2018-09-03T04:40:25.980Z",
-      "accessTime": "2018-09-04T04:34:41.395Z",
+      "accessTime": "2019-01-05T06:28:04.644Z",
       "changeTime": "2018-09-04T04:27:03.458Z",
       "birthTime": "2018-09-03T04:40:25.980Z",
       "root": "/",
@@ -1610,14 +1611,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050942,
       "blocks": 8,
-      "atimeMs": 1536035681395.0562,
+      "atimeMs": 1546669684643.6902,
       "mtimeMs": 1535949625980.4028,
       "ctimeMs": 1536035223458.2344,
       "birthtimeMs": 1535949625980.2847,
-      "atime": "2018-09-04T04:34:41.395Z",
+      "atime": "2019-01-05T06:28:04.644Z",
       "mtime": "2018-09-03T04:40:25.980Z",
       "ctime": "2018-09-04T04:27:03.458Z",
       "birthtime": "2018-09-03T04:40:25.980Z"
@@ -1641,7 +1642,7 @@
       "size": 1624,
       "prettySize": "1.62 kB",
       "modifiedTime": "2018-09-03T05:55:36.500Z",
-      "accessTime": "2018-09-04T04:34:41.349Z",
+      "accessTime": "2019-01-05T06:28:04.644Z",
       "changeTime": "2018-09-04T04:27:03.438Z",
       "birthTime": "2018-09-03T05:55:36.500Z",
       "root": "/",
@@ -1656,14 +1657,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050934,
       "blocks": 8,
-      "atimeMs": 1536035681349.411,
+      "atimeMs": 1546669684643.6365,
       "mtimeMs": 1535954136499.8455,
       "ctimeMs": 1536035223438.4883,
       "birthtimeMs": 1535954136499.7473,
-      "atime": "2018-09-04T04:34:41.349Z",
+      "atime": "2019-01-05T06:28:04.644Z",
       "mtime": "2018-09-03T05:55:36.500Z",
       "ctime": "2018-09-04T04:27:03.438Z",
       "birthtime": "2018-09-03T05:55:36.500Z"
@@ -1687,7 +1688,7 @@
       "size": 1712,
       "prettySize": "1.71 kB",
       "modifiedTime": "2018-09-03T06:07:46.055Z",
-      "accessTime": "2018-09-04T04:34:41.349Z",
+      "accessTime": "2019-01-05T06:28:16.351Z",
       "changeTime": "2018-09-04T04:27:03.439Z",
       "birthTime": "2018-09-03T06:07:46.055Z",
       "root": "/",
@@ -1702,14 +1703,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050935,
       "blocks": 8,
-      "atimeMs": 1536035681349.3875,
+      "atimeMs": 1546669696350.9907,
       "mtimeMs": 1535954866055.1023,
       "ctimeMs": 1536035223439.0305,
       "birthtimeMs": 1535954866054.9307,
-      "atime": "2018-09-04T04:34:41.349Z",
+      "atime": "2019-01-05T06:28:16.351Z",
       "mtime": "2018-09-03T06:07:46.055Z",
       "ctime": "2018-09-04T04:27:03.439Z",
       "birthtime": "2018-09-03T06:07:46.055Z"
@@ -1733,7 +1734,7 @@
       "size": 4385,
       "prettySize": "4.38 kB",
       "modifiedTime": "2018-09-02T20:05:21.036Z",
-      "accessTime": "2018-09-04T04:34:41.397Z",
+      "accessTime": "2019-01-05T06:28:17.480Z",
       "changeTime": "2018-09-04T04:27:03.445Z",
       "birthTime": "2018-09-02T20:05:21.036Z",
       "root": "/",
@@ -1748,63 +1749,17 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050940,
       "blocks": 16,
-      "atimeMs": 1536035681397.2085,
+      "atimeMs": 1546669697480.1663,
       "mtimeMs": 1535918721035.8066,
       "ctimeMs": 1536035223444.7961,
       "birthtimeMs": 1535918721035.6487,
-      "atime": "2018-09-04T04:34:41.397Z",
+      "atime": "2019-01-05T06:28:17.480Z",
       "mtime": "2018-09-02T20:05:21.036Z",
       "ctime": "2018-09-04T04:27:03.445Z",
       "birthtime": "2018-09-02T20:05:21.036Z"
-    },
-    "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file": {
-      "id": "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file",
-      "children": [
-        "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d537afae25e1f5de2071ec39e6956980",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Watson/jaxsite/src/images/pic03.jpg",
-      "relativePath": "pic03.jpg",
-      "extension": "jpg",
-      "size": 9697,
-      "prettySize": "9.7 kB",
-      "modifiedTime": "2018-09-02T20:05:21.037Z",
-      "accessTime": "2018-09-04T04:34:41.375Z",
-      "changeTime": "2018-09-04T04:27:03.441Z",
-      "birthTime": "2018-09-02T20:05:21.037Z",
-      "root": "/",
-      "dir": "/Users/Watson/jaxsite/src/images",
-      "base": "pic03.jpg",
-      "ext": ".jpg",
-      "name": "pic03",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8605050938,
-      "blocks": 24,
-      "atimeMs": 1536035681374.604,
-      "mtimeMs": 1535918721037.2598,
-      "ctimeMs": 1536035223441.1597,
-      "birthtimeMs": 1535918721037.019,
-      "atime": "2018-09-04T04:34:41.375Z",
-      "mtime": "2018-09-02T20:05:21.037Z",
-      "ctime": "2018-09-04T04:27:03.441Z",
-      "birthtime": "2018-09-02T20:05:21.037Z"
     },
     "/Users/Watson/jaxsite/src/images/pic01.jpg absPath of file": {
       "id": "/Users/Watson/jaxsite/src/images/pic01.jpg absPath of file",
@@ -1825,7 +1780,7 @@
       "size": 10064,
       "prettySize": "10.1 kB",
       "modifiedTime": "2018-09-02T20:05:21.036Z",
-      "accessTime": "2018-09-04T04:34:41.354Z",
+      "accessTime": "2019-01-05T06:28:16.351Z",
       "changeTime": "2018-09-04T04:27:03.440Z",
       "birthTime": "2018-09-02T20:05:21.036Z",
       "root": "/",
@@ -1840,14 +1795,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050936,
       "blocks": 24,
-      "atimeMs": 1536035681354.3027,
+      "atimeMs": 1546669696350.9976,
       "mtimeMs": 1535918721036.1707,
       "ctimeMs": 1536035223439.6436,
       "birthtimeMs": 1535918721035.9707,
-      "atime": "2018-09-04T04:34:41.354Z",
+      "atime": "2019-01-05T06:28:16.351Z",
       "mtime": "2018-09-02T20:05:21.036Z",
       "ctime": "2018-09-04T04:27:03.440Z",
       "birthtime": "2018-09-02T20:05:21.036Z"
@@ -1871,7 +1826,7 @@
       "size": 8904,
       "prettySize": "8.9 kB",
       "modifiedTime": "2018-09-02T20:05:21.037Z",
-      "accessTime": "2018-09-04T04:34:41.353Z",
+      "accessTime": "2019-01-05T06:28:16.351Z",
       "changeTime": "2018-09-04T04:27:03.440Z",
       "birthTime": "2018-09-02T20:05:21.036Z",
       "root": "/",
@@ -1886,17 +1841,63 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050937,
       "blocks": 24,
-      "atimeMs": 1536035681353.4756,
+      "atimeMs": 1546669696351.0046,
       "mtimeMs": 1535918721036.821,
       "ctimeMs": 1536035223440.4707,
       "birthtimeMs": 1535918721036.489,
-      "atime": "2018-09-04T04:34:41.353Z",
+      "atime": "2019-01-05T06:28:16.351Z",
       "mtime": "2018-09-02T20:05:21.037Z",
       "ctime": "2018-09-04T04:27:03.440Z",
       "birthtime": "2018-09-02T20:05:21.036Z"
+    },
+    "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file": {
+      "id": "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file",
+      "children": [
+        "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d537afae25e1f5de2071ec39e6956980",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Watson/jaxsite/src/images/pic03.jpg",
+      "relativePath": "pic03.jpg",
+      "extension": "jpg",
+      "size": 9697,
+      "prettySize": "9.7 kB",
+      "modifiedTime": "2018-09-02T20:05:21.037Z",
+      "accessTime": "2019-01-05T06:28:16.351Z",
+      "changeTime": "2018-09-04T04:27:03.441Z",
+      "birthTime": "2018-09-02T20:05:21.037Z",
+      "root": "/",
+      "dir": "/Users/Watson/jaxsite/src/images",
+      "base": "pic03.jpg",
+      "ext": ".jpg",
+      "name": "pic03",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8605050938,
+      "blocks": 24,
+      "atimeMs": 1546669696351.0117,
+      "mtimeMs": 1535918721037.2598,
+      "ctimeMs": 1536035223441.1597,
+      "birthtimeMs": 1535918721037.019,
+      "atime": "2019-01-05T06:28:16.351Z",
+      "mtime": "2018-09-02T20:05:21.037Z",
+      "ctime": "2018-09-04T04:27:03.441Z",
+      "birthtime": "2018-09-02T20:05:21.037Z"
     },
     "/Users/Watson/jaxsite/src/images/favi-logo.png absPath of file >> ImageSharp": {
       "id": "/Users/Watson/jaxsite/src/images/favi-logo.png absPath of file >> ImageSharp",
@@ -1938,16 +1939,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file",
-      "internal": {
-        "contentDigest": "d537afae25e1f5de2071ec39e6956980",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/Users/Watson/jaxsite/src/images/pic01.jpg absPath of file >> ImageSharp": {
       "id": "/Users/Watson/jaxsite/src/images/pic01.jpg absPath of file >> ImageSharp",
       "children": [],
@@ -1964,6 +1955,16 @@
       "parent": "/Users/Watson/jaxsite/src/images/pic02.jpg absPath of file",
       "internal": {
         "contentDigest": "4528ad9f4ac47247d0e81d536ab02791",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Watson/jaxsite/src/images/pic03.jpg absPath of file",
+      "internal": {
+        "contentDigest": "d537afae25e1f5de2071ec39e6956980",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -1987,7 +1988,7 @@
       "size": 692828,
       "prettySize": "693 kB",
       "modifiedTime": "2018-09-02T20:05:21.035Z",
-      "accessTime": "2018-09-04T04:34:41.401Z",
+      "accessTime": "2019-01-05T06:28:04.644Z",
       "changeTime": "2018-09-04T04:27:03.459Z",
       "birthTime": "2018-09-02T20:05:21.030Z",
       "root": "/",
@@ -2002,14 +2003,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050943,
       "blocks": 1360,
-      "atimeMs": 1536035681401.0112,
+      "atimeMs": 1546669684643.696,
       "mtimeMs": 1535918721035.2576,
       "ctimeMs": 1536035223458.7896,
       "birthtimeMs": 1535918721029.6829,
-      "atime": "2018-09-04T04:34:41.401Z",
+      "atime": "2019-01-05T06:28:04.644Z",
       "mtime": "2018-09-02T20:05:21.035Z",
       "ctime": "2018-09-04T04:27:03.459Z",
       "birthtime": "2018-09-02T20:05:21.030Z"
@@ -2043,7 +2044,7 @@
       "size": 1319483,
       "prettySize": "1.32 MB",
       "modifiedTime": "2018-09-03T17:08:52.789Z",
-      "accessTime": "2018-09-04T04:34:41.375Z",
+      "accessTime": "2019-01-05T06:28:16.351Z",
       "changeTime": "2018-09-04T04:27:03.444Z",
       "birthTime": "2018-09-03T17:08:52.788Z",
       "root": "/",
@@ -2058,14 +2059,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050939,
       "blocks": 2584,
-      "atimeMs": 1536035681374.8901,
+      "atimeMs": 1546669696351.0186,
       "mtimeMs": 1535994532788.6216,
       "ctimeMs": 1536035223444.1929,
       "birthtimeMs": 1535994532787.6653,
-      "atime": "2018-09-04T04:34:41.375Z",
+      "atime": "2019-01-05T06:28:16.351Z",
       "mtime": "2018-09-03T17:08:52.789Z",
       "ctime": "2018-09-04T04:27:03.444Z",
       "birthtime": "2018-09-03T17:08:52.788Z"
@@ -2099,7 +2100,7 @@
       "size": 6232691,
       "prettySize": "6.23 MB",
       "modifiedTime": "2018-09-03T09:14:05.046Z",
-      "accessTime": "2018-09-04T04:34:41.397Z",
+      "accessTime": "2019-01-05T06:28:17.480Z",
       "changeTime": "2018-09-04T04:27:03.458Z",
       "birthTime": "2018-09-03T09:14:03.250Z",
       "root": "/",
@@ -2114,14 +2115,14 @@
       "uid": 501,
       "gid": 20,
       "rdev": 0,
-      "blksize": 4194304,
+      "blksize": 4096,
       "ino": 8605050941,
       "blocks": 12320,
-      "atimeMs": 1536035681396.696,
+      "atimeMs": 1546669697480.1736,
       "mtimeMs": 1535966045045.6743,
       "ctimeMs": 1536035223457.6404,
       "birthtimeMs": 1535966043249.551,
-      "atime": "2018-09-04T04:34:41.397Z",
+      "atime": "2019-01-05T06:28:17.480Z",
       "mtime": "2018-09-03T09:14:05.046Z",
       "ctime": "2018-09-04T04:27:03.458Z",
       "birthtime": "2018-09-03T09:14:03.250Z"
@@ -2134,6 +2135,26 @@
         "contentDigest": "8d730fb43c416d8b08ead5443540c76c",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/Users/Watson/jaxsite/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Watson/jaxsite/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c9aac99e16ad5a2b2b07492f0d04651f",
+        "owner": "internal-data-bridge"
       }
     },
     "SitePage /my-second-post/": {
@@ -2152,7 +2173,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "298dca37528305d5a77a558a8b8a8a9f",
+        "contentDigest": "fdded5510e26dcae728cc9cf45ab19ea",
         "owner": "internal-data-bridge"
       }
     },
@@ -2172,27 +2193,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "75d2a09e1738ea3612b562508635a5b7",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /hello-world/": {
-      "layout": "index",
-      "jsonName": "hello-world.json",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world/",
-      "component": "/Users/Watson/jaxsite/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Watson/jaxsite/src/templates/blog-post.js",
-      "id": "SitePage /hello-world/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6491c0afabfc90afc6a6819fbbbdfc33",
+        "contentDigest": "e0ad3e7ce4b4274dd885612f685ddefe",
         "owner": "internal-data-bridge"
       }
     },
@@ -2212,7 +2213,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "810cced628f9c7f30a1b8c437a6df427",
+        "contentDigest": "3086400893bc2d4e16cd31eda80cb492",
         "owner": "internal-data-bridge"
       }
     },
@@ -2232,7 +2233,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "eed8833cdaaf046d87c3c915a66c2c9d",
+        "contentDigest": "35347ab9a0b2afc75ee8dcb9955f1529",
         "owner": "internal-data-bridge"
       }
     },
@@ -2252,7 +2253,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fadbc5dbf93b8f3adee81784696abe6b",
+        "contentDigest": "c82fd14be7e89861ece00975bd56295a",
         "owner": "internal-data-bridge"
       }
     },
@@ -2272,7 +2273,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a57608e203e44eb7bcaad90efc808a19",
+        "contentDigest": "506d220f02d8e971eefd21494b7b9b6d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2292,33 +2293,33 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ffe90b24be608270958f1cf40c3c4489",
+        "contentDigest": "104ec7a11b289b7bef7b2509723e3cf0",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "5de742f44f2cd6c9f1ee7ebd89f41b7b"
+    "PLUGINS_HASH": "7d49eb0db70d1ec80e11733985daa689"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/hello-world/",
         "/hi-folks/",
         "/my-second-post/",
+        "/hello-world/",
         "/new-page/",
-        "LAYOUT___index",
-        "/work/"
-      ],
-      "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": [
-        "/hello-world/"
+        "/work/",
+        "LAYOUT___index"
       ],
       "/Users/Watson/jaxsite/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark": [
         "/hi-folks/"
       ],
       "/Users/Watson/jaxsite/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": [
         "/my-second-post/"
+      ],
+      "/Users/Watson/jaxsite/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world/"
       ]
     },
     "connections": {

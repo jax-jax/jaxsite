@@ -13,9 +13,9 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Watson/jaxsite/.cache/json/layout-index.json"),
+  "hello-world.json": require("gatsby-module-loader?name=path---hello-world!/Users/Watson/jaxsite/.cache/json/hello-world.json"),
   "my-second-post.json": require("gatsby-module-loader?name=path---my-second-post!/Users/Watson/jaxsite/.cache/json/my-second-post.json"),
   "hi-folks.json": require("gatsby-module-loader?name=path---hi-folks!/Users/Watson/jaxsite/.cache/json/hi-folks.json"),
-  "hello-world.json": require("gatsby-module-loader?name=path---hello-world!/Users/Watson/jaxsite/.cache/json/hello-world.json"),
   "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/Watson/jaxsite/.cache/json/dev-404-page.json"),
   "about.json": require("gatsby-module-loader?name=path---about!/Users/Watson/jaxsite/.cache/json/about.json"),
   "contact.json": require("gatsby-module-loader?name=path---contact!/Users/Watson/jaxsite/.cache/json/contact.json"),

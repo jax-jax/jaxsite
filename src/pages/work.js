@@ -14,12 +14,22 @@ class WorkPage extends React.Component {
         <Helmet>
             <title>{siteTitle}</title>
             <meta name="description" content={siteDescription} />
-
         </Helmet>
-        <Menu/>
         <div>
-            <h1>This is a Work page</h1>
+            <h1>Work Work Work Work</h1>
          </div>
+         <section>
+            <div>
+               <header>Dippin Daisy</header>
+
+               <h3>Production Logistic Manager</h3>
+               <p>Swimwear Made in the USA</p>
+               <p>Production Logistic/Projection Reports/Graphic Designer/Technology Management</p>
+
+               <a>View Project</a>
+
+            </div>
+         </section>
       </div>
     )
   }
