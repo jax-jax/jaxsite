@@ -16,20 +16,47 @@ class WorkPage extends React.Component {
             <meta name="description" content={siteDescription} />
         </Helmet>
         <div>
-            <h1>Work Work Work Work</h1>
+            <h1>Work Descriptions</h1>
          </div>
          <section>
             <div>
-               <header>Dippin Daisy</header>
+               <h2>Viva USA / Dippin Daisy</h2>
 
-               <h3>Production Logistic Manager</h3>
-               <p>Swimwear Made in the USA</p>
-               <p>Production Logistic/Projection Reports/Graphic Designer/Technology Management</p>
+               <h3>Production Logistic Coordinator / Production Assistant</h3>
+               <h4>Swimwear Made in the USA</h4>
+               <p>Production Logistic/ Pre-Production/ Projection Reports/Graphic Designer/Technology Management</p>
 
                <a>View Project</a>
 
             </div>
          </section>
+
+         <section>
+            <div>
+               <h2>Aces Technology Service & Solutions</h2>
+
+               <h3>Frontend Consultant</h3>
+               <h4>Hybrid Cloud Platform</h4>
+               <p>Frontend Design/ Wireframes-mockups/ Workflow Analyst / QA Testing Engineer</p>
+
+               <a>View Project</a>
+
+            </div>
+         </section>
+
+         <section>
+            <div>
+               <h2>Lemore LLC </h2>
+
+               <h3>Marketing Consultant</h3>
+               <h4>Marketing Firm</h4>
+               <p>B2B & B2C Marketing Campaign Coordinator/ Copywriter/ Market Researcher/ Social Media Management</p>
+
+               <a>View Project</a>
+
+            </div>
+         </section>
+
       </div>
     )
   }
