@@ -18,7 +18,7 @@ class WorkPage extends React.Component {
         <div>
             <h1>Work Descriptions</h1>
          </div>
-         <section>
+         <section id="VivaUSA" class="workdes">
             <div>
                <h2>Viva USA / Dippin Daisy</h2>
 
@@ -31,7 +31,7 @@ class WorkPage extends React.Component {
             </div>
          </section>
 
-         <section>
+         <section id="Acestss" class="workdes">
             <div>
                <h2>Aces Technology Service & Solutions</h2>
 
@@ -44,7 +44,7 @@ class WorkPage extends React.Component {
             </div>
          </section>
 
-         <section>
+         <section id="Lemorellc" class="workdes">
             <div>
                <h2>Lemore LLC </h2>
 
